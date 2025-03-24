@@ -1,3 +1,5 @@
+###오늘도! 노력하는 개발자 안효주입니다! ✊
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/anju0210"
