@@ -10,7 +10,7 @@
     height="120"
   />
 </a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A1EEBD&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8ADAB2&height=150&section=footer" />
 
 </div>
 
