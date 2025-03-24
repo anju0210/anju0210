@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=66D2CE&height=150&section=header" />
 
-  ## 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
+  ### 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
