@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E52020&height=150&section=header" />
-<p align="center">
-  🙌 오늘도! 노력하는 개발자 안효주입니다 😆
-</p>
+<div align="center">
+
+## 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E52020&height=150&section=footer" />
 
 <br>
