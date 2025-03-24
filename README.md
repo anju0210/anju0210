@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0&text=오늘도!%20노력하는%20개발자%20안효주입니다!%20✊&animation=twinkling&fontSize=24&fontAlignY=40&fontAlign=50&height=250&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,2,5,30&text=오늘도!%20노력하는%20개발자%20안효주입니다!%20✊&animation=fadeIn&fontSize=24&fontAlignY=40&fontAlign=50&height=250)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
