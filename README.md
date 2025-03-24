@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E52020&height=150&section=header" />
-<h2 align="center"> 🙌 오늘도! 노력하는 개발자 안효주입니다 😆 </h2>
+<h2 align="center"> 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E52020&height=150&section=footer" />
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
