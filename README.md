@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7BD3EA&height=150&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E8F9FF&height=150&section=header" />
 
   ### 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
 
@@ -10,7 +10,7 @@
     height="120"
   />
 </a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8ADAB2&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C4D9FF&height=150&section=footer" />
 
 </div>
 
