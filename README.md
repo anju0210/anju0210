@@ -3,13 +3,15 @@
 
   ### 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/anju0210"
-  width="600"
-  height="400"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/anju0210?pet-id=692539802614118425"
+    width="600"
+    height="170"
+  />
 </a>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=DDEB9D&height=150&section=footer" />
 
 </div>
