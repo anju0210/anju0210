@@ -4,16 +4,6 @@
   ### 🙌 오늘도! 노력하는 개발자 안효주입니다 😆
 
 
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/anju0210?pet-id=697638316629389808"
-    width="230"
-    height="140"
-  />
-</a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/anju0210?pet-id=697637931093158585"
@@ -21,14 +11,21 @@
     height="140"
   />
 </a>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/anju0210?pet-id=697638319523459575"
+    src="https://render.gitanimals.org/lines/anju0210?pet-id=697638316629389808"
     width="230"
     height="140"
   />
 </a>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/anju0210?pet-id=697638323843595820"
+    width="230"
+    height="140"
+  />
+</a>
+  
   
   
   
