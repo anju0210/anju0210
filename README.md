@@ -8,21 +8,21 @@
   <img
     src="https://render.gitanimals.org/lines/anju0210?pet-id=697637931093158585"
     width="230"
-    height="140"
+    height="170"
   />
 </a>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/anju0210?pet-id=697638316629389808"
     width="230"
-    height="140"
+    height="170"
   />
 </a>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/anju0210?pet-id=697638323843595820"
     width="230"
-    height="140"
+    height="170"
   />
 </a>
   
