@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 질문에 직접 부딪치는 개발자 안효주입니다! 🤓
-<p>오늘과 내일이 다른, 나날이 성장하는 개발자가 되고 싶습니다! </p>
+<p>오늘과 내일이 다른, 나날이 성장하는 개발자가 되겠습니다! </p>
 <br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
