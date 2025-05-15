@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CAF4FF&height=150&section=header" />
 
-  ### 🙌 몰입하는 개발자 안효주입니다! 🤓
-
-
+### 질문에 직접 부딪치는 개발자 안효주입니다! 🤓
+<p>오늘과 내일이 다른, 나날이 성장하는 개발자가 되고 싶습니다! </p>
+<br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/anju0210?pet-id=697637931093158585"
@@ -30,7 +29,7 @@
   
   
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DDEB9D&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A0DEFF&height=150&section=footer" />
 
 </div>
 
