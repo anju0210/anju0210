@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 안녕하세요 안효주입니다! 🤓
-<p>나날이 성장하는 모습 보여드리겠습니다! </p>
+<p>나날이 성장하는 모습 보여드리겠습니다!</p>
 <br>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=anju0210&utm_content=line">
   <img
